@@ -3,6 +3,7 @@
 I'm Helio Dantas, a full-stack software developer. I currently work as a Senior Software Developer at Funcional Heath Tech. </br>
 With over 5 years of experience in the field, I've had the opportunity to work on various exciting projects and explore different technologies.
 
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -39,7 +40,7 @@ Here are some ideas to get you started:
   ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
   
 # 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/helio.oliveiragr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/hélio-oliveira3) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/helio.oliveiragr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https:/?www.linkedin.com/in/hélio-oliveira3) 
 
 
 
