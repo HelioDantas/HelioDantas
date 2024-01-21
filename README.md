@@ -33,7 +33,7 @@ Here are some ideas to get you started:
   ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=fff&style=flat)
   ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
   ![Tailwind_CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-  ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff&style=flat)
+  ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff)
   ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
   ![Google Pub/Sub](https://img.shields.io/badge/Google%20Pub%2FSub-AECBFA?logo=googlepubsub&logoColor=000&style=flat)
   ![RabbitMQ Badge](https://img.shields.io/badge/RabbitMQ-F60?logo=rabbitmq&logoColor=fff&style=flat)
